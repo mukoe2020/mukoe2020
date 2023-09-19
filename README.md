@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Memory Mukondah![image](https://github.com/mukoe2020/mukoe2020/assets/122824378/09ee5dc6-ae5a-4d64-99f5-92feb627a4e8)
-</h1>
+<h1 align="center">Hi 👋, I'm Memory Mukondah[image]</h1>
 <h3 align="center">Am a developer in the making from zimbabwe</h3>
 
 <p align="left"> <a href="https://twitter.com/memoecodes" target="blank"><img src="https://img.shields.io/twitter/follow/memoecodes?logo=twitter&style=for-the-badge" alt="memoecodes" /></a> </p>
