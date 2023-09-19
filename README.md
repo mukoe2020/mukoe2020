@@ -1,4 +1,4 @@
-align="center"![image](https://github.com/mukoe2020/mukoe2020/assets/122824378/86cad0a9-5717-4d4d-b4e3-44bc9613a0ac)
+  ![image](https://github.com/mukoe2020/mukoe2020/assets/122824378/86cad0a9-5717-4d4d-b4e3-44bc9613a0ac)
 <h1 align="center">Hi 👋, I'm Memory Mukondah</h1>
 <h3 align="center">Am a developer in the making from zimbabwe</h3>
 
